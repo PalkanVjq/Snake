@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\palkanvjq\source\repos\kyrsovaya_zmeika\kyrsovaya_zmeika\source.cpp(23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\palkanvjq\source\repos\kyrsovaya_zmeika\kyrsovaya_zmeika\source.cpp(24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\palkanvjq\source\repos\kyrsovaya_zmeika\kyrsovaya_zmeika\source.cpp(507): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\palkanvjq\source\repos\kyrsovaya_zmeika\kyrsovaya_zmeika\source.cpp(542): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KYRSOVAYA_ZMEIKA.vcxproj -> C:\Users\PalkanVjq\source\repos\KYRSOVAYA_ZMEIKA\Debug\KYRSOVAYA_ZMEIKA.exe
